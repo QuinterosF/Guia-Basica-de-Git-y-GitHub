@@ -1,5 +1,7 @@
 # Guía rápida de Git y GitHub
 
+![Image](image.png)
+
 ## Inicialización y configuración básica
 
 ```bash
